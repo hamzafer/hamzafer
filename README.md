@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamzafer
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning Flutter and Django
+- 🌱 I’m currently learning React, Node and Django
 - 💞️ I’m looking to collaborate on Enterprise Solutions
 - 📫 How to reach me hamzafer3@gmail.com
 
