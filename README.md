@@ -25,11 +25,11 @@ Senior software engineer and vision‑language researcher focused on generative 
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-4169E1?logo=postgresql&logoColor=white)
 
 ### ✉️ Contact  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihamzafer/) 
-[![Google Scholar](https://img.shields.io/badge/-Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=-OgHByMAAAAJ&hl=en) 
-[![Website](https://img.shields.io/badge/-Portfolio-111111?logo=About.me&logoColor=white)](https://hamzafar.me) 
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:hamzafer3@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ihamzafer/) 
+[Google Scholar](https://scholar.google.com/citations?user=-OgHByMAAAAJ&hl=en) 
+[Website](https://hamzafar.me) 
+[Email](mailto:hamzafer3@gmail.com)
 
-<p align="center">
-  <img src="assets/hamza.png" alt="Hamza Zafar — Vision‑Language Researcher | Generative‑AI Engineer" />
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="assets/hamza.png" alt="Hamza Zafar — Vision‑Language Researcher | Generative‑AI Engineer" /> -->
+<!-- </p> -->
