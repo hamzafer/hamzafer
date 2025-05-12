@@ -13,7 +13,7 @@ Senior software engineer and vision‑language researcher focused on generative 
 - **Receptive AI** – GPT‑powered employee‑feedback platform (> $1 M ARR)  
 - **Visual Assistant** – on‑device object‑detection mobile app
 
-### 🛠️ Tech stack  
+### Tech stack  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) 
