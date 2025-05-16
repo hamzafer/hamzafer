@@ -8,10 +8,10 @@ Senior software engineer and vision‑language researcher focused on generative 
 - Cloud infrastructure on AWS / Kubernetes  
 
 ### Some projects  
-- **Wild LVMs** – vision‑language models for robotics (2024)  
-- **Semantic Image Retrieval** – natural‑language image search (2024)  
-- **Receptive AI** – GPT‑powered employee‑feedback platform (> $1 M ARR)  
-- **Visual Assistant** – on‑device object‑detection mobile app
+- **Wild LVMs:** vision‑language models for robotics (2024)  
+- **Semantic Image Retrieval:** natural‑language image search (2024)  
+- **Receptive AI:** GPT‑powered employee‑feedback platform (> $1 M ARR)  
+- **Visual Assistant:** on‑device object‑detection mobile app
 
 ### Tech stack  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
