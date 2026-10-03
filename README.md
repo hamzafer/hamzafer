@@ -1,5 +1,15 @@
+<p align="center">
+  <samp>
+    𝕏 <a href="https://x.com/ihamzafer">x</a> .
+    💼 <a href="https://www.linkedin.com/in/ihamzafer/">linkedin</a> .
+    🎓 <a href="https://scholar.google.com/citations?user=-OgHByMAAAAJ&hl=en">scholar</a> .
+    🌐 <a href="https://hamzafar.me">website</a> .
+    ✉️ <a href="mailto:hamzafer3@gmail.com">email</a>
+  </samp>
+</p>
+
 ### About me  
-Senior software engineer and vision‑language researcher focused on generative models, multimodal transformers and scalable AI systems. Currently completing an Erasmus Mundus M.Sc. at NTNU while leading backend and ML work at Receptive AI. 
+Lead AI Engineer and vision‑language researcher focused on generative models, multimodal transformers and scalable AI systems. Currently completing an Erasmus Mundus M.Sc. at NTNU while leading backend and ML work at Receptive AI. 
 
 ### Research & engineering interests  
 - Multimodal transformers for vision and retrieval  
@@ -23,12 +33,6 @@ Senior software engineer and vision‑language researcher focused on generative 
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white) 
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-4169E1?logo=postgresql&logoColor=white)
-### Contact
-- [X](https://x.com/ihamzafer)
-- [LinkedIn](https://www.linkedin.com/in/ihamzafer/)
-- [Google Scholar](https://scholar.google.com/citations?user=-OgHByMAAAAJ&hl=en)
-- [Website](https://hamzafar.me)
-- [Email](mailto:hamzafer3@gmail.com)
 
 <!-- <p align="center"> -->
 <!--   <img src="assets/hamza.png" alt="Hamza Zafar — Vision‑Language Researcher | Generative‑AI Engineer" /> -->
