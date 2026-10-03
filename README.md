@@ -1,15 +1,16 @@
-<p align="center">
+
+### About me  
+Lead AI Engineer and vision‑language researcher focused on generative models, multimodal transformers and scalable AI systems. Currently completing an Erasmus Mundus M.Sc. at NTNU while leading backend and ML work at Receptive AI. 
+
+<p align="left">
   <samp>
-    𝕏 <a href="https://x.com/ihamzafer">x</a> .
+    𝕏 <a href="https://x.com/ihamzafer">twitter</a> .
     💼 <a href="https://www.linkedin.com/in/ihamzafer/">linkedin</a> .
     🎓 <a href="https://scholar.google.com/citations?user=-OgHByMAAAAJ&hl=en">scholar</a> .
     🌐 <a href="https://hamzafar.me">website</a> .
     ✉️ <a href="mailto:hamzafer3@gmail.com">email</a>
   </samp>
 </p>
-
-### About me  
-Lead AI Engineer and vision‑language researcher focused on generative models, multimodal transformers and scalable AI systems. Currently completing an Erasmus Mundus M.Sc. at NTNU while leading backend and ML work at Receptive AI. 
 
 ### Research & engineering interests  
 - Multimodal transformers for vision and retrieval  
