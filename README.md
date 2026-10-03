@@ -24,6 +24,7 @@ Senior software engineer and vision‑language researcher focused on generative 
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-4169E1?logo=postgresql&logoColor=white)
 ### Contact
+- [X](https://x.com/ihamzafer)
 - [LinkedIn](https://www.linkedin.com/in/ihamzafer/)
 - [Google Scholar](https://scholar.google.com/citations?user=-OgHByMAAAAJ&hl=en)
 - [Website](https://hamzafar.me)
